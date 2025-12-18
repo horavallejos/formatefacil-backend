@@ -201,3 +201,4 @@ Thumbs.db
 
 # Document files (Added by cleanup task)
 *.pdf
+api_doc.md
