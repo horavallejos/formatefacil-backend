@@ -198,3 +198,6 @@ __marimo__/
 Thumbs.db
 *.swp
 *.swo
+
+# Document files (Added by cleanup task)
+*.pdf

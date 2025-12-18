@@ -77,6 +77,17 @@ async def hotmart_webhook(email: str, course_id: str, transaction_id: str):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+
+# 5. Easter Egg para el Developer
+@app.get("/api/developer/status")
+async def developer_status():
+    return {
+        "status": "surviving",
+        "coffee_level": "critical",
+        "sweat_and_tears": "confirmed",
+        "message": "Hecho con ❤️ y mucho esfuerzo"
+    }
+
 if __name__ == "__main__":
     import uvicorn
     uvicorn.run(app, host="0.0.0.0", port=8000)
