@@ -77,6 +77,9 @@ Anon key
 formatefacil.online / FORMATE FACIL .ONLINE
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImVyYXBycG9odnVxYXdteGpjemZpIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjYwNDExMjAsImV4cCI6MjA4MTYxNzEyMH0.iTg8ANwTVPBJM_gm5cz9rMF17gCQjjDWFucoGhAx4U8
 
+railway
+formatefacil.online
+3892bdde-ca26-45a9-91fc-b423ef0042cc
 
 .env
 SUPABASE_URL=<SUBSTITUTE_SUPABASE_URL>
